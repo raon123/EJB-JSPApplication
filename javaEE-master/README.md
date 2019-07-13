@@ -1,2 +1,2 @@
 # javaEE
-Sample app JavaEE: JSP, EJB, Servlet, JQuery Json, Bootstrap
+Application built on J2EE technologies EJB's and JSP's
